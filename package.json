@@ -1,0 +1,22 @@
+{
+  "name": "mtm6330-week-2a",
+  "version": "1.0.0",
+  "description": "First githyb repository for MTM6330 Tim Hopkins Section 20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowmoose2/MTM6330-Week-2a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellowmoose2/MTM6330-Week-2a/issues"
+  },
+  "homepage": "https://github.com/yellowmoose2/MTM6330-Week-2a#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0"
+  }
+}
